@@ -1,4 +1,4 @@
-package tech.eS1;
+package tech.lox;
 
 enum TokenType
 {

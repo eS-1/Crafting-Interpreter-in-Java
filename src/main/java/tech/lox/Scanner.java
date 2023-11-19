@@ -1,4 +1,4 @@
-package tech.eS1;
+package tech.lox;
 
 import java.util.ArrayList;
 import java.util.HashMap;
